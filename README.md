@@ -1,6 +1,3 @@
-![domain:innovation-lab](https://img.shields.io/badge/innovation--lab-3D8BD3)
-![domain:business](https://img.shields.io/badge/business-3D8BD3)
-
 **Mini Databae AI Agent**
 
 **Description**: This AI agent is the miniature version of a project we did at Cal Hacks, sponsored by Fetch.ai, called [Databae](https://github.com/trungtran1234/databae). It uses a combination of DeepSeek's, Llama's (Facebook), and OpenAI's models 
