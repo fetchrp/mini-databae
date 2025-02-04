@@ -21,7 +21,6 @@ class Request(Model):
 ```
 class Response(Model):
     summary: str
-
 ```
 
 
